@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\buricMarioProvjeraZnanja\buricMarioProvjeraZnanja\obj\Debug\buricMarioProvjeraZnanja.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\buricMarioProvjeraZnanja\buricMarioProvjeraZnanja\obj\Debug\buricMarioProvjeraZnanja.Form1.resources
+C:\Users\Korisnik\source\repos\buricMarioProvjeraZnanja\buricMarioProvjeraZnanja\obj\Debug\buricMarioProvjeraZnanja.FormaUnos.resources
+C:\Users\Korisnik\source\repos\buricMarioProvjeraZnanja\buricMarioProvjeraZnanja\obj\Debug\buricMarioProvjeraZnanja.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\buricMarioProvjeraZnanja\buricMarioProvjeraZnanja\obj\Debug\buricMarioProvjeraZnanja.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\buricMarioProvjeraZnanja\buricMarioProvjeraZnanja\obj\Debug\buricMarioProvjeraZnanja.csproj.CoreCompileInputs.cache
